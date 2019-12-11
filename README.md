@@ -1,1 +1,3 @@
-# mpi_about_julia
+# Very short presentation about Julia
+
+View the presentation in a [static mode](https://nbviewer.jupyter.org/github/mmider/mpi_about_julia/blob/master/julia_presentation.ipynb) or in an interactive mode by clicking this button [![binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmider/mpi_about_julia/master) and selecting `julia_presentation.ipynb` from the list of notebooks. In the interactive mode you have access to the Julia kernel, so you can change the code and run your own functions...

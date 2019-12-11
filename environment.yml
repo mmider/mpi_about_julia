@@ -1,0 +1,9 @@
+ 
+dependencies:
+  - matplotlib
+  - numpy
+  - pip
+  - rise
+  - pip:
+      - julia
+      - jupyter-contrib-nbextensions
