@@ -2,5 +2,4 @@ BenchmarkTools
 Distributions
 HTTP
 PyPlot
-Random
 StaticArrays
