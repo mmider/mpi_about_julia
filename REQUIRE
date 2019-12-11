@@ -1,7 +1,6 @@
 BenchmarkTools
 Distributions
 HTTP
-LinearAlgebra
 PyPlot
 Random
 StaticArrays
